@@ -10,7 +10,7 @@ def admin_page():
 
     with st.container():
         with st.expander(" Send Reminder for Appointment"):
-            exp1=Image.open("images\exp1_2.png")
+            exp1=Image.open("images/exp1_2.png")
             st.image(exp1,use_column_width=True)
 
         st.write("")

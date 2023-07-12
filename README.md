@@ -1,1 +1,2 @@
-# medical_ai_final_new
+##  Run 
+``streamlit run main_v2.py``

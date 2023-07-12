@@ -16,8 +16,8 @@ import tempfile
 from st_custom_components import st_audiorec
 from audio_recorder_streamlit import audio_recorder
 from pydub import AudioSegment as am
-import os
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
+#import os
+#os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 r = sr.Recognizer()
 

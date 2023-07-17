@@ -12,3 +12,4 @@ PyAudio== 0.2.11
 SpeechRecognition==3.9.0
 audio-recorder-streamlit==0.0.8
 pydub==0.25.1
+vectordb2
